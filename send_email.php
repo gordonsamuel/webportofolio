@@ -41,8 +41,8 @@ try {
     // ==========================================
     // UBAH DENGAN EMAIL DAN APP PASSWORD GMAIL ANDA
     // ==========================================
-    $mail->Username   = 'gordonsamuel310@gmail.com';                 // SMTP username (email Gmail)
-    $mail->Password   = 'qndx ovap nvrp yqcs';                   // SMTP password (gunakan App Password, BUKAN password login)
+    $mail->Username   = 'noname@gmail.com';                 // SMTP username (email Gmail)
+    $mail->Password   = 'xxxx-xxxx-xxxx-xxxx';                   // SMTP password (gunakan App Password, BUKAN password login)
     // ==========================================
     
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            // Enable implicit TLS encryption
